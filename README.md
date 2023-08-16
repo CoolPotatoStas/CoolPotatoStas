@@ -4,9 +4,6 @@
 <div align="center">
   <label>Hi!</label>
 </div>
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoolPotatoStas&style=flat-square&color=green" alt=""/>
-</div>
 
 ---
 
